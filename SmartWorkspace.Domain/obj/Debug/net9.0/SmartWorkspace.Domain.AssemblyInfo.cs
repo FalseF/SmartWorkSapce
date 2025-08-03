@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartWorkspace.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886a57f1695c293b9d42cf51b130f22dc3e39e67")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartWorkspace.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartWorkspace.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

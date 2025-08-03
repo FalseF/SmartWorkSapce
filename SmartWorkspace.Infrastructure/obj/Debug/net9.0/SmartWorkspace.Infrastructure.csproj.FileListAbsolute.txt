@@ -1,0 +1,6 @@
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.AssemblyInfo.cs
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Infrastructure\obj\Debug\net9.0\SmartWorkspace.Infrastructure.sourcelink.json

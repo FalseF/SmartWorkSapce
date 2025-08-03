@@ -1,0 +1,12 @@
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\bin\Debug\net9.0\SmartWorkspace.Shared.deps.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\bin\Debug\net9.0\SmartWorkspace.Shared.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\bin\Debug\net9.0\SmartWorkspace.Shared.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.AssemblyInfoInputs.cache
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.AssemblyInfo.cs
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.sourcelink.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\refint\SmartWorkspace.Shared.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\SmartWorkspace.Shared.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Shared\obj\Debug\net9.0\ref\SmartWorkspace.Shared.dll

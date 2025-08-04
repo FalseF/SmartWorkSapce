@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartWorkspace.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7004864bc9621d38bc26118e68ce441430c4ed72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85b04e0a64768aea89c17691167de00b4d1cbbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartWorkspace.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartWorkspace.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

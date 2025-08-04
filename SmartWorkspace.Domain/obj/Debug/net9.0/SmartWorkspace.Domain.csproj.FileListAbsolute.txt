@@ -4,3 +4,10 @@ C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\SmartWorkspace.Domain.AssemblyInfo.cs
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\SmartWorkspace.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\SmartWorkspace.Domain.sourcelink.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\bin\Debug\net9.0\SmartWorkspace.Domain.deps.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\bin\Debug\net9.0\SmartWorkspace.Domain.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\bin\Debug\net9.0\SmartWorkspace.Domain.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\SmartWorkspace.Domain.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\refint\SmartWorkspace.Domain.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\SmartWorkspace.Domain.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Domain\obj\Debug\net9.0\ref\SmartWorkspace.Domain.dll

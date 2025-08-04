@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SmartWorkspace.Domain.Enums
 {
-    public enum TaskStatus
+    public enum WorkItemStatus
     {
-        ToDo,
-        InProgress,
-        Done
+        ToDo = 0,
+        InProgress = 1,
+        Done = 2,
     }
 }

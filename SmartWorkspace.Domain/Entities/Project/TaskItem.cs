@@ -1,5 +1,6 @@
 ﻿using SmartWorkspace.Domain.Entities.Common;
 using SmartWorkspace.Domain.Entities.Identity;
+using SmartWorkspace.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,7 @@ namespace SmartWorkspace.Domain.Entities.Project
         public string AssignedToId { get; set; }
         public AppUser AssignedTo { get; set; }
 
-        public TaskStatus Status { get; set; } = TaskStatus.ToDo;
+        public WorkItemStatus Status { get; set; } = WorkItemStatus.ToDo;
 
         public DateTime? DueDate { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;

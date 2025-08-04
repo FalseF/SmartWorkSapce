@@ -4,3 +4,15 @@ C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\D
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWorkspace.Application.AssemblyInfo.cs
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWorkspace.Application.csproj.CoreCompileInputs.cache
 C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWorkspace.Application.sourcelink.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Application.deps.json
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Application.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Application.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Domain.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Shared.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Domain.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\bin\Debug\net9.0\SmartWorkspace.Shared.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWor.A7AC6EFF.Up2Date
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWorkspace.Application.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\refint\SmartWorkspace.Application.dll
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\SmartWorkspace.Application.pdb
+C:\Users\Dev1\OneDrive\Desktop\LearningProjects\SmartWorkspace.Application\obj\Debug\net9.0\ref\SmartWorkspace.Application.dll

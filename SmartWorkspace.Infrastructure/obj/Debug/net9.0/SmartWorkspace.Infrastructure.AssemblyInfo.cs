@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartWorkspace.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85b04e0a64768aea89c17691167de00b4d1cbbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8fbccab675fd833bb673f2fc3db6568eba7602")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartWorkspace.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartWorkspace.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
